@@ -4,7 +4,7 @@ A full-stack web application that helps users manage todo items and generate AI-
 
 ## Demo
 
-![Todo Summary Assistant Demo](https://drive.google.com/file/d/1Iu_J1zRoevY6-38ImpbVRkIbCKhCWljM/view?usp=sharing)
+[Todo Summary Assistant Demo](https://drive.google.com/file/d/1Iu_J1zRoevY6-38ImpbVRkIbCKhCWljM/view?usp=sharing)
 
 ## Features
 
