@@ -2,7 +2,7 @@
 
 A full-stack web application that helps users manage todo items and generate AI-powered summaries that are sent to Slack.
 
-## Demo
+## Demo video
 
 [Todo Summary Assistant Demo](https://drive.google.com/file/d/1Iu_J1zRoevY6-38ImpbVRkIbCKhCWljM/view?usp=sharing)
 
@@ -288,7 +288,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Demo
 
-![Todo Summary Assistant Demo](https://drive.google.com/file/d/1Iu_J1zRoevY6-38ImpbVRkIbCKhCWljM/view?usp=sharing)
+[Todo Summary Assistant Demo](https://drive.google.com/file/d/1Iu_J1zRoevY6-38ImpbVRkIbCKhCWljM/view?usp=sharing)
 
 ### Key Features Demonstrated:
 1. **Todo Management** - Add, edit, delete, and mark todos as complete
