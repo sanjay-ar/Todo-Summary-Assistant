@@ -144,7 +144,7 @@ VITE_API_URL=http://localhost:5000/api
 
 3. **Access the application**
    - Frontend: http://localhost:5173
-   - Backend API: http://localhost:5000
+   - Backend API: http://localhost:3001
 
 ## API Endpoints
 
