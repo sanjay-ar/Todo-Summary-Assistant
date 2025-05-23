@@ -35,7 +35,7 @@ A full-stack web application that helps users manage todo items and generate AI-
 
 ```
 todo-summary-assistant/
-├── frontend/
+├── todo-summary-frontend/
 │   ├── src/
 │   │   ├── components/
 │   │   │   ├── TodoForm.jsx
@@ -49,7 +49,7 @@ todo-summary-assistant/
 │   │   └── main.jsx
 │   ├── .env
 │   └── package.json
-└── backend/
+└── todo-summary-backend/
     ├── src/
     │   ├── controllers/
     │   │   ├── todoController.js
@@ -105,13 +105,13 @@ VITE_API_URL=http://localhost:5000/api
 
 2. **Setup Backend**
    ```bash
-   cd backend
+   cd todo-summary-backend
    npm install
    ```
 
 3. **Setup Frontend**
    ```bash
-   cd ../frontend
+   cd ../todo-summary-frontend
    npm install
    ```
 
@@ -132,13 +132,13 @@ VITE_API_URL=http://localhost:5000/api
 
 1. **Start the backend server**
    ```bash
-   cd backend
+   cd todo-summary-backend
    npm run dev
    ```
 
 2. **Start the frontend development server**
    ```bash
-   cd frontend
+   cd todo-summary-frontend
    npm run dev
    ```
 
